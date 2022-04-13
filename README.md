@@ -1,5 +1,3 @@
-#### This Project is no longer actively maintained
-
 # Console Tracker :video_game:
 A Console Management System for Gaming Cafes :coffee:
 
